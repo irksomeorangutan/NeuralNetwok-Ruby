@@ -1,4 +1,4 @@
-# NeuralNetwok-Ruby
+# Neural Network - Ruby
 
 This is a Ruby program to implement MaxNet.
 
